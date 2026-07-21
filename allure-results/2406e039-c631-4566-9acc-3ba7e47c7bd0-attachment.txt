@@ -1,0 +1,24 @@
+info: ========== Test Started ==========
+info: Test Name : Add product to cart
+info: Application URL opened
+info: ===== Add Cart Test Started =====
+info: Current URL before login: https://www.saucedemo.com/
+info: Created LoginPage object
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Current URL after login: https://www.saucedemo.com/inventory.html
+info: Login successful - Inventory page displayed
+info: Adding Sauce Labs Backpack to cart
+info: Product added successfully
+info: Cart count verified as 1
+info: Opened cart page
+info: Cart page validation completed
+info: ===== Add Cart Test Completed =====
+info: Test Passed : Add product to cart
+info: ========== Test Completed ==========

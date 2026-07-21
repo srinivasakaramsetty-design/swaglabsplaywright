@@ -1,0 +1,552 @@
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Test Passed : Continue shopping from cart
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Second product added
+info: Test Passed : Continue shopping from cart
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Second product added
+info: Test Passed : Continue shopping from cart
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Second product added
+info: Cart count verified as 2
+info: Cart opened after continue shopping
+info: ===== Continue Shopping Test Completed =====
+info: Test Passed : Continue shopping from cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Second product added
+info: Cart count verified as 2
+info: Cart opened after continue shopping
+info: Second product verified in cart
+info: ===== Continue Shopping Test Completed =====
+info: Test Passed : Continue shopping from cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Second product added
+info: Cart count verified as 2
+info: Cart opened after continue shopping
+info: Second product verified in cart
+info: ===== Continue Shopping Test Completed =====
+info: Test Passed : Continue shopping from cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Checkout Button
+info: Application URL opened
+info: ===== Checkout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout Information page displayed
+info: ===== Checkout Test Completed =====
+info: Test Passed : Verify Checkout Button
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Checkout Information
+info: Application URL opened
+info: ===== Checkout Information Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout Information page opened
+info: Checkout information submitted successfully
+info: ===== Checkout Information Test Completed =====
+info: Test Passed : Checkout Information
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Checkout Overview and Place Order
+info: Application URL opened
+info: ===== Checkout Overview Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout page opened
+info: Checkout information entered successfully
+info: Test Passed : Checkout Overview and Place Order
+info: ========== Test Started ==========
+info: Test Name : Checkout Overview and Place Order
+info: Application URL opened
+info: ===== Checkout Overview Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout page opened
+info: Checkout information entered successfully
+info: Product verified
+info: Payment information verified
+info: Shipping information verified
+info: Total price verified
+info: Finish button clicked
+info: Order placed successfully
+info: ===== Checkout Overview Test Completed =====
+info: Test Passed : Checkout Overview and Place Order
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home button after order completion
+info: Application URL opened
+info: ===== Back Home Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added to cart
+info: Cart page opened
+info: Checkout page opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button navigated to products page
+info: ===== Back Home Test Completed =====
+info: Test Passed : Verify Back Home button after order completion
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Order completed
+info: Back Home completed
+info: Test Passed : Verify Back Home and Logout functionality
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Order completed
+info: Back Home completed
+info: Test Passed : Verify Back Home and Logout functionality
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Cart opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button verified
+info: Test Passed : Verify Back Home and Logout functionality
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Cart opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button verified
+info: Test Passed : Verify Back Home and Logout functionality
+info: Failure screenshot attached
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Cart opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button verified
+info: Logout clicked
+info: Test Passed : Verify Back Home and Logout functionality
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : SwagLabs Login Test
+info: Application URL opened
+info: Starting SwagLabs Login Test
+info: Created LoginPage object
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login completed successfully
+info: Verified inventory page URL
+info: Test Passed : SwagLabs Login Test
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Add product to cart
+info: Application URL opened
+info: ===== Add Cart Test Started =====
+info: Current URL before login: https://www.saucedemo.com/
+info: Created LoginPage object
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Current URL after login: https://www.saucedemo.com/inventory.html
+info: Login successful - Inventory page displayed
+info: Adding Sauce Labs Backpack to cart
+info: Product added successfully
+info: Cart count verified as 1
+info: Opened cart page
+info: Cart page validation completed
+info: ===== Add Cart Test Completed =====
+info: Test Passed : Add product to cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify cart product details
+info: Application URL opened
+info: ===== Cart Details Test Started =====
+info: URL before login: https://www.saucedemo.com/
+info: Created LoginPage object
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: URL after login: https://www.saucedemo.com/inventory.html
+info: Login successful - Inventory page displayed
+info: Adding product to cart
+info: Product added to cart
+info: Cart badge count verified
+info: Opened cart page
+info: Cart URL verified
+info: Product details validated successfully
+info: ===== Cart Details Test Completed =====
+info: Test Passed : Verify cart product details
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Add multiple products to cart
+info: Application URL opened
+info: ========== Starting Multiple Products Test ==========
+info: Created LoginPage object
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful - Inventory page displayed
+info: Adding multiple products to cart
+info: Two products added successfully
+info: Cart count : 2
+info: Cart count verified successfully
+info: Cart page opened successfully
+info: ========== Multiple Products Test Completed ==========
+info: Test Passed : Add multiple products to cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Remove product from cart
+info: Application URL opened
+info: ========== Starting Remove Product Test ==========
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful - Inventory page displayed
+info: Product added to cart
+info: Cart count verified as 1
+info: Cart page opened
+info: Before remove cart items: 1
+info: Product removed successfully
+info: ========== Remove Product Test Completed ==========
+info: Test Passed : Remove product from cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Continue shopping from cart
+info: Application URL opened
+info: ===== Continue Shopping Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: First product added to cart
+info: Cart page opened
+info: Returned to inventory page
+info: Second product added
+info: Cart count verified as 2
+info: Cart opened after continue shopping
+info: Second product verified in cart
+info: ===== Continue Shopping Test Completed =====
+info: Test Passed : Continue shopping from cart
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Checkout Button
+info: Application URL opened
+info: ===== Checkout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout Information page displayed
+info: ===== Checkout Test Completed =====
+info: Test Passed : Verify Checkout Button
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Checkout Information
+info: Application URL opened
+info: ===== Checkout Information Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout Information page opened
+info: Checkout information submitted successfully
+info: ===== Checkout Information Test Completed =====
+info: Test Passed : Checkout Information
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Checkout Overview and Place Order
+info: Application URL opened
+info: ===== Checkout Overview Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added successfully
+info: Cart page opened
+info: Checkout page opened
+info: Checkout information entered successfully
+info: Product verified
+info: Payment information verified
+info: Shipping information verified
+info: Total price verified
+info: Finish button clicked
+info: Order placed successfully
+info: ===== Checkout Overview Test Completed =====
+info: Test Passed : Checkout Overview and Place Order
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home button after order completion
+info: Application URL opened
+info: ===== Back Home Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Product added to cart
+info: Cart page opened
+info: Checkout page opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button navigated to products page
+info: ===== Back Home Test Completed =====
+info: Test Passed : Verify Back Home button after order completion
+info: ========== Test Completed ==========
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Cart opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button verified
+info: Logout clicked
+info: Test Passed : Verify Back Home and Logout functionality
+info: ========== Test Completed ==========

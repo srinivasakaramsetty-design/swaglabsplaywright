@@ -1,0 +1,8 @@
+info: Starting SwagLabs Login Test
+info: Created LoginPage object
+info: Entering username
+info: Entering password
+info: Clicking login button
+info: Login completed successfully
+info: Verified inventory page URL
+Test completed

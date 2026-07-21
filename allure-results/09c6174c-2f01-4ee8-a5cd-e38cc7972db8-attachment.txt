@@ -1,0 +1,20 @@
+info: ========== Test Started ==========
+info: Test Name : Verify Back Home and Logout functionality
+info: Application URL opened
+info: ===== Back Home and Logout Test Started =====
+info: Current URL: https://www.saucedemo.com/
+info: Waiting for username field
+info: Entering username
+info: Waiting for password field
+info: Entering password
+info: Clicking login button
+info: Waiting for inventory page
+info: Login completed successfully
+info: Login successful
+info: Cart opened
+info: Checkout information completed
+info: Order completed successfully
+info: Back Home button verified
+info: Test Passed : Verify Back Home and Logout functionality
+info: Failure screenshot attached
+info: ========== Test Completed ==========
